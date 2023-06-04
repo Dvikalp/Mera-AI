@@ -1,1 +1,1 @@
-const openAIAPI= "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";
+const openAIAPI= "<OpenAI-API>";
